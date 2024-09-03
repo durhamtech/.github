@@ -1,5 +1,8 @@
 # Durham Technical Community College
 
+![Durham Tech](DT-Logo-Label.png)
+
+## About
 [About Durham Tech](https://www.durhamtech.edu/about-durham-tech)
 
 Durham Tech is a growing institution in North Carolina, serving more than 18,000 students annually across seven campuses in Durham and Orange counties while also providing various online courses. The college is accredited and offers more than 90 associate degrees and certificates for students seeking university transfer or immediate employment. The College has opportunities for eligible North Carolina high school students, international students, veterans, and adults looking to complete their high school educations. Durham Tech programs include the arts, engineering, education, health technologies, information technology, public safety, and business administration. Non-credit (continuing education) courses include career enhancement in automotive, culinary arts, hospitality, and biotechnology; English as a second language; and personal enrichment opportunities such as gardening, health and wellness, and photography.
